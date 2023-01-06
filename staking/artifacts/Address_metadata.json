@@ -1,0 +1,38 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type,",
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"staking/StakingRewardsDualFactory.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"staking/StakingRewardsDualFactory.sol": {
+			"keccak256": "0xf584432c2fdbcc8ea3ce20342821f378a1ac509700fb621925499e9799cb9744",
+			"urls": [
+				"bzz-raw://142cb93a279d6222864675ecde9f8c9a3b9a23c9430bfb577efb4e24a6384ca2",
+				"dweb:/ipfs/QmX6LuHMnPQo1ubkpN4djmiV4ECqpDnPbYpYqTbjsCcRJa"
+			]
+		}
+	},
+	"version": 1
+}
